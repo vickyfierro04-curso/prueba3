@@ -1,0 +1,27 @@
+
+body {
+  background-color: lightblue;
+}
+
+div {
+  width: 200px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+   
+}
+
+#para1 {
+   border-style: dashed;
+   background-color:red;
+}
